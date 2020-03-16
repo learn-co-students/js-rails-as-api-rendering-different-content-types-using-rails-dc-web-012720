@@ -7,7 +7,7 @@
 - Render JSON from a Rails controller
 
 ## Introduction
-
+   
 In the previous lesson, we revisited the default Rails MVC structure, and at the
 end, an ERB file was rendered. Rails, however, can render multiple types of
 content. In this lesson, we're going to look at some of the content types most
